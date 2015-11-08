@@ -23,4 +23,5 @@ class Solution(object):
             digits[pointer]=0
             pointer -=1
         digits[pointer]+=1
+        
         return digits
